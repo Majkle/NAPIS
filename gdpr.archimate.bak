@@ -46,6 +46,7 @@
     <element xsi:type="archimate:TriggeringRelationship" id="id-a8ee2de76ea3436298c4a6ab8ff7dba1" source="id-d07c807f44b0495e944ad50cd68f5959" target="id-ead117df02334af0ac844629f515a294"/>
     <element xsi:type="archimate:TriggeringRelationship" id="id-defb26c71c9c4d8f858641884cc8723e" source="id-ead117df02334af0ac844629f515a294" target="id-3947872905444230b57846d15b00896b"/>
     <element xsi:type="archimate:TriggeringRelationship" id="id-a5fc52865b284b168bd5fcd839f98c9c" source="id-e0e7d9d1075f4b7b965fc20c7e5d52ce" target="id-3947872905444230b57846d15b00896b"/>
+    <element xsi:type="archimate:ServingRelationship" id="id-10f8ab29a49c44ebbaa2d60f0be7835a" source="id-3947872905444230b57846d15b00896b" target="id-bbf66711c3004cb2bc1d6172975ab85c"/>
     <element xsi:type="archimate:AccessRelationship" id="id-be5acb6316f7421888afb8205b4d5d4b" source="id-ead117df02334af0ac844629f515a294" target="id-84387bf791e840a89397daece72a0558"/>
     <element xsi:type="archimate:AccessRelationship" id="id-ae97f6bcd29f46849a8b3d1ad9da2113" source="id-dc153b9ee2374d70a0f613f57966bf0c" target="id-84387bf791e840a89397daece72a0558" accessType="1"/>
     <element xsi:type="archimate:AccessRelationship" id="id-5dde936ce37746baa9ff01616ac737eb" source="id-ead117df02334af0ac844629f515a294" target="id-cdbc59142afd4d96a9d23b10cdf5d634"/>
